@@ -189,7 +189,7 @@ footer > ul > li > a {
 	position:relative;	
 	margin:0;
 }
-main > .box1 > .summary, .contacts, .skills, .education, .experience, .code > span > p {
+main > .box1 > .summary, .contacts, .skills, .education, .experience, .code > div > p {
 	height:auto;
 	width:auto;
 	font-family:"Tahoma";
@@ -200,7 +200,7 @@ main > .box1 > .summary, .contacts, .skills, .education, .experience, .code > sp
 	margin:0;
 	padding:0;
 }
-main > .box1 > .summary, .contacts, .skills, .education, .experience, .code > span > ul > li > a {
+main > .box1 > .summary, .contacts, .skills, .education, .experience, .code > div > ul > li > a {
 	text-decoration: none;
 	text-align: center;
 	height:auto;
@@ -211,7 +211,7 @@ main > .box1 > .summary, .contacts, .skills, .education, .experience, .code > sp
 	color:black;
 	font-family:"Tahoma";
 }
-main > .box1 > .summary, .contacts, .skills, .education, .experience, .code >span > ul {
+.box1 > .summary, .contacts, .skills, .education, .experience, .code > div > ul {
 	text-decoration: none;
 	height:auto;
 	width:auto;
@@ -222,7 +222,7 @@ main > .box1 > .summary, .contacts, .skills, .education, .experience, .code >spa
 	margin:0;
 	padding:0;
 }
-main > .box2 > .summary > span > p {
+.box2 > .summary > div > p {
 	height:auto;
 	width:auto;
 	font-family:"Tahoma";
@@ -236,7 +236,7 @@ main > .box2 > .summary > span > p {
 .image {
 	border: 0px solid #25cfff;
 }
-main > .box2 > .summary > span > ul > li {
+main > .box2 > .summary > div > ul > li {
 	text-decoration: none;
 	text-align: center;
 	height:auto;
@@ -247,7 +247,7 @@ main > .box2 > .summary > span > ul > li {
 	color:black;
 	font-family:"Tahoma";
 }
-main > .box2 > .summary > span > ul > li > a {
+.box2 > .summary > div > ul > li > a {
 	text-decoration: none;
 	text-align: center;
 	height:auto;
@@ -258,7 +258,7 @@ main > .box2 > .summary > span > ul > li > a {
 	color:black;
 	font-family:"Tahoma";
 }
-main > .box2 > .summary >span > ul {
+.box2 > .summary > div > ul {
 	height:auto;
 	width:auto;
 	font-family:"Tahoma";
@@ -325,6 +325,8 @@ main > .box2 > .summary >span > ul {
 	background-color:#616474;
 }
 main > .box1 > .summary {
+	justify-content:center;
+	align-items:center;
 	text-align:center;
 	font-weight:normal;
 	font-family:"Tahoma";
