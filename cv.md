@@ -33,7 +33,7 @@
   
   ---
 
-#### Skills and Profficiency
+####Skills and Profficiency
 - VBA, C#, C++
 - IEC 61131-3, SCL, STL, LAD, FBD, Graph, CFC
 - Git, GitHub
@@ -44,7 +44,7 @@
 - Siemens TIA Portal, PCS7, WinCC, Step7
 
 ---
-#### Education
+####Education
 - **Orsk Technology Institute**
 Bachelor's degree, Electrical and Electronics Engineering
 - **Years:** 2011 - 2015
