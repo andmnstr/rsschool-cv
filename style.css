@@ -1,0 +1,18 @@
+* {
+    width: auto;
+    height: auto;
+    margin: auto;
+    padding: auto;
+}
+body {
+    width: auto;
+    height: auto;
+    background-color: transparent;
+}
+header {
+    display: block;
+    width: device-width;
+    background: linear-gradient(245deg, #a5ccfe, #a5ffac);
+    padding: 10px 30px;
+    margin: 5px;
+}
