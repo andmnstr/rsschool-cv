@@ -4,13 +4,11 @@
     margin: auto;
     padding: auto;
 }
-
 body {
     width: auto;
     height: auto;
     background-color: transparent;
 }
-
 header {
     display: block;
     width: device-width;
